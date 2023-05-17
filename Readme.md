@@ -1,9 +1,9 @@
 # Om-VR: A VR meditation app enabled by wearable device.
 
- <img src="./Demo/Software.jpg" width = "400" align=center />
- <img src="./Demo/Hardware.jpg" width = "400" align=center />
- <img src="./Demo/UserExperience.jpg" width = "400" align=center />
- <img src="./Demo/Prototype.jpg" width = "400" align=center />
+ <img src="./Demo/Software.svg" width = "400" align=center />
+ <img src="./Demo/Hardware.svg" width = "400" align=center />
+ <img src="./Demo/UserExperience.svg" width = "400" align=center />
+ <img src="./Demo/Prototype.svg" width = "400" align=center />
 
 
 
